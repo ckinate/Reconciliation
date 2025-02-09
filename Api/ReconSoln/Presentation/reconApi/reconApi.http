@@ -1,0 +1,6 @@
+@reconApi_HostAddress = http://localhost:5240
+
+GET {{reconApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
